@@ -2,7 +2,7 @@
   "name": "react-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://koksoon7417.github.io/kok-soon",
+  "homepage": "https://koksoon7417.github.io/kok-soon/",
   "scripts": {
     "start": "node scripts/start.js",
     "start:prod": "ENV=prod node scripts/start.js",
